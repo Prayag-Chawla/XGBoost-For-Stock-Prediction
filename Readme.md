@@ -78,6 +78,14 @@ from statsmodels.tsa.seasonal import seasonal_decompose as sm
 
 ```
 
+## Output Snapshots
+![image](https://github.com/Prayag-Chawla/XGBoost-Fro-Stock-Prediction/assets/92213377/07952a70-6336-4b8c-835b-62ecabd07f25)
+![image](https://github.com/Prayag-Chawla/XGBoost-Fro-Stock-Prediction/assets/92213377/cae59b3b-3f75-4056-8eb2-5b6e5017272e)
+![image](https://github.com/Prayag-Chawla/XGBoost-Fro-Stock-Prediction/assets/92213377/483df038-87b0-4895-8bdc-29ac94b75339)
+![image](https://github.com/Prayag-Chawla/XGBoost-Fro-Stock-Prediction/assets/92213377/ab232e60-cb3f-4cca-ae29-53bb458956e1)
+
+Note - There is a descripancy in final output vs predicted graph. This discrepncy is due to the difference in dataset used, and as the stock is still active, and the trained model was for an inactive dataset, we have this difference. I am still working to fix this issue, and it will get resolved soon.
+
 
 
 
